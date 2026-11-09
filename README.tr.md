@@ -10,7 +10,7 @@ Craft** (StreetCraft) idi; ilk videolardaki logoda o yazar.
 **Resmî bir Minecraft ürünü değildir; Mojang ya da Microsoft tarafından onaylanmamıştır ve onlarla
 bağı yoktur.** Google ve GeoGuessr ile de bağı yoktur.
 
-English: [README.md](README.md)
+English: [README.md](README.md) · Română: [README.ro.md](README.ro.md)
 
 ## Çalıştırma
 
